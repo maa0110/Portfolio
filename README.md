@@ -2,6 +2,12 @@
 ---
 # Research project:
 
+<br>
+
+> https://github.com/maa0110/Senior-Project
+
+<br>
+
 > My project is a research project that analyzes cybersecurity standard compliance practices. The
 goal of the project is to optimize the compliance process by compiling my research and creating
 an efficiency tool in Microsoft Excel. I hope that through my project, I am also able to help
@@ -29,9 +35,9 @@ understandable quality of my project as I present it to the school.
 
 <br>
 
-https://github.com/maa0110/Linux-Project
-<br>
+> https://github.com/maa0110/Linux-Project
 
+<br>
 
 >The Linux project is a computer-based activity tracker. The goal of the project is to help users
 track their tasks in a “to-do list.” The hope is that this would allow users to be more productive
@@ -53,7 +59,7 @@ in a group setting and working with others’ code.
 
 <br>
 
-https://github.com/neem-41/chatroom
+> https://github.com/neem-41/chatroom
 
 <br>
 
