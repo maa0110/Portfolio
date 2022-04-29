@@ -6,11 +6,9 @@
 
 # The Matrix: A Cybersecurity Standards Mapping
 
-<br>
-
 *Repository : [Senior Project] (https://github.com/maa0110/Senior-Project)*
 
-<br>
+####  **Description:**
 
 > My project is a research project that analyzes cybersecurity standard compliance practices. The
 goal of the project is to optimize the compliance process by compiling my research and creating
@@ -25,6 +23,8 @@ to see how close they are and what is left on the road to compliancy. Once they 
 they will be able to track audit resources in the document, allowing the information to all be
 stored/linked in one place.
 
+#### **Reflection:**
+
 > This program shows my ability to apply critical thinking skills in learning and summarizing highlevel
 information. I will learn the concepts required for software development like agile
 development when releasing the efficiency tool in different release versions. I will gain the
@@ -33,22 +33,18 @@ while working through implementations of the tool. At the end of my project, my 
 responsibility and communication skills will be illustrated in the professional and easily
 understandable quality of my project as I present it to the school.
 
-<br>
-
 # ToDo List:
-
-<br>
 
 *Repository : [ToDo List] (https://github.com/maa0110/Linux-Project)*
 
-<br>
+####  **Description:**
 
 >The Linux project is a computer-based activity tracker. The goal of the project is to help users
 track their tasks in a “to-do list.” The hope is that this would allow users to be more productive
 and aware of everything they needed to do. The program allows users to create new tasks,
 mark the completion status, and view both the completed and uncompleted tasks.
 
-<br>
+#### **Reflection:**
 
 >This is the first shell program that I have written. This program shows my ability to learn new
 programing languages and attain a system-level understanding of my computer through my
@@ -57,15 +53,11 @@ techniques. Everything was coded from scratch allowing me to develop my problem-
 skills as I encountered errors along the way. I acquired significant project experience in working
 in a group setting and working with others’ code.
 
-<br>
-
 # Chatroom:
-
-<br>
 
 *Repository : [Chatroom] (https://github.com/neem-41/chatroom)*
 
-<br>
+####  **Description:**
 
 >The Chatroom project is a computer-based client and server that allows users to send messages
 to each other. The goal of the project was to facilitate communication between friends,
@@ -78,7 +70,7 @@ communications, they can press the exit button, leaving the server. Once a user 
 other users’ clients update and no longer show the user as well as no longer broadcasting
 messages to their connection.
 
-<br>
+#### **Reflection:**
 
 >This is one of the first client-server-based programs that I have written. This program shows my
 ability to learn client server connections and designing programs from protocols. We used Java
@@ -89,12 +81,26 @@ throughout the project process. I earned significance experience in working in a
 and interacting with code written by two different people as we each initially focused on the
 client or the server.
 
-<br>
-
 # Number Ninja
 
 *Repository : [Number Ninja] (https://github.com/maa0110/Number-Ninja)*
 
+####  **Description:**
+
+
+
+#### **Reflection:**
+
+
+
 # Cybersecurity in Infrastructure Protection
 
 *Repository : [Cybersecurity in Infrastructure Protection] (https://github.com/maa0110/Computer-Security-Presentation)*
+
+####  **Description:**
+
+
+
+#### **Reflection:**
+
+
