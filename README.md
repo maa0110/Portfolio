@@ -1,11 +1,10 @@
 # Alex Assante Senior Portfolio
 
-## **About:**
  Alex Assante <br />
  Bachelors Computer Science <br />
  [Resume]()
 
-# Research project:
+# The Matrix: A Cybersecurity Standards Mapping
 
 <br>
 
@@ -36,7 +35,7 @@ understandable quality of my project as I present it to the school.
 
 <br>
 
-# Linux Project:
+# ToDo List:
 
 <br>
 
