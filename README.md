@@ -2,6 +2,12 @@
 
  Alex Assante <br />
  Bachelors Computer Science <br />
+ 
+ ### **Contact me:**
+ Email: alexander.assante@gmail.com <br />
+ Phone: 208.270.2055 <br />
+ [LinkedIn](https://www.linkedin.com/in/alex-assante-6a4977183/)
+ 
  [Resume]()
 
 # The Matrix: A Cybersecurity Standards Mapping
