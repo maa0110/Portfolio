@@ -1,10 +1,15 @@
-# Senior Portfolio
----
+# Alex Assante Senior Portfolio
+
+## **About:**
+ Alex Assante <br />
+ Bachelors Computer Science <br />
+ [Resume]()
+
 # Research project:
 
 <br>
 
-> https://github.com/maa0110/Senior-Project
+*Repository : [Senior Project] (https://github.com/maa0110/Senior-Project)*
 
 <br>
 
@@ -35,7 +40,7 @@ understandable quality of my project as I present it to the school.
 
 <br>
 
-> https://github.com/maa0110/Linux-Project
+*Repository : [ToDo List] (https://github.com/maa0110/Linux-Project)*
 
 <br>
 
@@ -59,7 +64,7 @@ in a group setting and working with others’ code.
 
 <br>
 
-> https://github.com/neem-41/chatroom
+*Repository : [Chatroom] (https://github.com/neem-41/chatroom)*
 
 <br>
 
@@ -89,7 +94,7 @@ client or the server.
 
 # Number Ninja
 
-https://github.com/maa0110/Number-Ninja
+*Repository : [Number Ninja] (https://github.com/maa0110/Number-Ninja)*
 
 # Cybersecurity in Infrastructure Protection
 
