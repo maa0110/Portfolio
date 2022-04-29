@@ -26,6 +26,13 @@ understandable quality of my project as I present it to the school.
 <br>
 
 # Linux Project:
+
+<br>
+
+https://github.com/maa0110/Linux-Project
+<br>
+
+
 >The Linux project is a computer-based activity tracker. The goal of the project is to help users
 track their tasks in a “to-do list.” The hope is that this would allow users to be more productive
 and aware of everything they needed to do. The program allows users to create new tasks,
