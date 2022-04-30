@@ -109,7 +109,7 @@ client or the server.
 
 *Repository : [Cybersecurity in Infrastructure Protection] (https://github.com/maa0110/Computer-Security-Presentation)*
 
-![alt text]()
+![alt text](https://github.com/maa0110/Portfolio/blob/main/critical%20infrastructure.png)
 
 ####  **Description:**
 
