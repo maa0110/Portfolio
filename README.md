@@ -8,11 +8,13 @@
  Phone: 208.270.2055 <br />
  [LinkedIn](https://www.linkedin.com/in/alex-assante-6a4977183/)
  
- [Resume]()
+ [Resume](https://github.com/maa0110/Portfolio/blob/main/Resume.pdf)
 
 # The Matrix: A Cybersecurity Standards Mapping
 
 *Repository : [Senior Project] (https://github.com/maa0110/Senior-Project)*
+
+![alt text]()
 
 ####  **Description:**
 
@@ -63,6 +65,8 @@ in a group setting and working with others’ code.
 
 *Repository : [Chatroom] (https://github.com/neem-41/chatroom)*
 
+![alt text]()
+
 ####  **Description:**
 
 >The Chatroom project is a computer-based client and server that allows users to send messages
@@ -91,6 +95,8 @@ client or the server.
 
 *Repository : [Number Ninja] (https://github.com/maa0110/Number-Ninja)*
 
+![alt text]()
+
 ####  **Description:**
 
 
@@ -102,6 +108,8 @@ client or the server.
 # Cybersecurity in Infrastructure Protection
 
 *Repository : [Cybersecurity in Infrastructure Protection] (https://github.com/maa0110/Computer-Security-Presentation)*
+
+![alt text]()
 
 ####  **Description:**
 
